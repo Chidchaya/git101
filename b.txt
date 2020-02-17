@@ -1,1 +1,1 @@
-This is b.txt and save
+แก้ไข b.txt บรรทัดแรก ใน branch ให้ต่างจากเดิม and save
