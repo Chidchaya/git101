@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 oh my god
+=======
+แก้ไข b.txt บรรทัดแรก ใน branch ให้ต่างจากเดิม and save
+>>>>>>> feature2
